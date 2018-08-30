@@ -1,11 +1,4 @@
-# CS 1632 - Software Quality Assurance
-Summer Semester 2018
-
-DUE 2 AUG 2018
-
-## Deliverable 4
-
-In this deliverable, you and a partner will write software to verify if a simple blockchain is valid.
+In this deliverable, you will write software to verify if a simple blockchain is valid.
 
 Under _no_ circumstances should the program crash or should the user see an exception or stack trace directly.  You should handle all edge cases that might be thrown at you, such as a non-existent file, no arguments, different failure modes, etc.
 
